@@ -35,4 +35,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewJKH&layout=compact&bg_color=60,e1a8ff,eed3d3&title_color=8a0fc2&text_color=8a0fc2"
            /> </div> 
     </div>
+
+아 자바 뿐인거 너무 초라하네
     
