@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=44F78A&width=435&lines=%F0%9F%9B%A0+Java+Backend+Enthusiast+%7C+Plugin+Developer;Backend+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC+%EA%BF%88%EA%BE%B8%EB%A9%B0)](https://git.io/typing-svg)
 <!--
 **NewJKH/NewJKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
